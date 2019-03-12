@@ -1,0 +1,25 @@
+/* .nav-custom {
+    -webkit-transition: black 0.5s ease-in-out;
+    -moz-transition: gray 0.5s ease-in-out;
+    -ms-transition: gray 0.5s ease-in-out;
+    -o-transition: gray 0.5s ease-in-out;
+    transition: white 0.5s ease-in-out;
+} */
+
+.nav-custom {
+    background-image: linear-gradient(white, black);
+}
+
+.navbar-brand
+{
+    font-family: 'Shadows Into Light', cursive;
+    color: white;
+    margin: auto;
+    font-size: 25px;
+}
+
+a {
+font-size: 25px;
+margin-left: 10px;
+margin-top: 0;
+}
